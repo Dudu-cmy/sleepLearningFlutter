@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "779890012679",
+    "firebase_url": "https://top-amplifier-244713.firebaseio.com",
+    "project_id": "top-amplifier-244713",
+    "storage_bucket": "top-amplifier-244713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779890012679:android:435aaa6059ed9d4e9a30a2",
+        "android_client_info": {
+          "package_name": "com.cmu.sleeplearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779890012679-86186g76l2a6proj3oh6kcjqcvurpom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8TeTu1bMbWqrCD70i6NgR56VWY0E_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779890012679-86186g76l2a6proj3oh6kcjqcvurpom8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779890012679-faes6ojo28bnd18n8oai8fus3bs910e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "memorylab.Sleep-Learning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779890012679:android:61ca27c322dc5b26",
+        "android_client_info": {
+          "package_name": "com.example.sleeplearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779890012679-86186g76l2a6proj3oh6kcjqcvurpom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8TeTu1bMbWqrCD70i6NgR56VWY0E_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779890012679-86186g76l2a6proj3oh6kcjqcvurpom8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779890012679-faes6ojo28bnd18n8oai8fus3bs910e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "memorylab.Sleep-Learning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "top-amplifier-244713",
+  "private_key_id": "2bcfd8b164003d1c68b4dd9525fef7b5cb18ee61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8DfkiX42VGsIn\n8wkgVIzT9YlLg7JaYIYclySBkJ6PZlwmn1OEiHVJC4My8fAGyd74lSPNSXT/3MTS\nPbeXuAN9Cn8nDomPUGNgD6mpS6HKd5Z3ax+Oe1Q9tweO0XL5XMczpxgZRZfm6szm\nxpFbbJU+q8U24SWOZ09zJ0dkKzqyEDG67mwSizxcZh4F+365JWwTR63MGYs9/cgg\nf+69ImPMfl9Q5ti8ScMdaFaOpK1laEYcgWRVUU3XEGgaQo49cqYrZwAnY6zUEmvZ\nj798DH50u/OO34cfbWR8KIiEv86RaMLBo01TEKrnzzrtuwGM5Ghsnrv16XkxMLUZ\nyn+uz0iXAgMBAAECggEAAoQr65h33U72/tTZ5ukz28Z+YZimmjn7/NgXd3XJbxNa\noU8ZdqIr8nJXD5UYLOcULaMy9KecwhkgpV6tnSW9+jUi9pFTcb4e/ADb72Mzecy3\n/cal9fLlg+K/J1ttZaGCQJJTvQJCT94NcR+m7Y4IChBtDMZwm7WNd2N98mqJ85gf\n13xUoxZch0JwMy4yFy1QGhxUPOxjQ0wBlXz3nyCscLBIRoGbkiDLJbcShmMUCtJt\naLAWFKCnbkRkJWLwfXctY6GmQRI9f+gFnVRbOKD9A6g/7ERDtw6YN7dA+631+swg\nG1dPTgI+IfV08Dr515CQmC7yHfti2GYx7o9DszOU/QKBgQDvmqpnjqkHPmUvgL8j\nQh9l7cAN9qCneQcXiuxDW/RQVGJ3gyESr2DAgtwN7ukJ6lnWjvHeFX9CN9x/gwHq\nYuOQzOTTgCg4Ug/U+1jBRmnCCFEzDEpL3CHdjXrdZOLMdp9Dfy886JFRZtGtg/b1\nMuUkjQpZmbpkIwe50koTW0N56wKBgQDI7EXmcx56Sig1NzzyCF6K7wBGyOHzRWVd\ngvY/G/LWKa6myVLQnbmohUGq7qCtP2hdliyGL9eIhwurLx0PlQKlXcnK8FyhfApH\nEa+gu/yLpl79Ke2WNXaRn0hFCBu/QtrVDfOYFyNfMz+5lenk80QCaLYjqIsBrxWD\nblqq9HD1BQKBgQCeUPy9Vjb7UU/8dj5VJrCmYdSfpVD7t21nMeTwkQa6OTeiriMh\nPH5aVVzfW/fhFFbt/R91VZDziQOJwV93poWkvK2JzklFBXvuh3Faq5LfoS095KYG\nv9okkQIY3Ts6TDrpl1T4EtdKCP0MgICh/VIIt6SaFYhh9/932aoWZhwMpwKBgQC/\nSLnPiP+WGy2mZD1gi3k+ugVAXpVGnmW/niPDt178Z1iALyDpvY94kc0P5/kOl1RL\n7OHcqoV+1FrWkZcQM6P+PYkU7LqzfrzmJj9XPkFTzoOWcCliHOoR/1u1ZN/Nud9O\ngObNgBHL26WqkL/JmZPA22G0FwyoAMDxjMlDAk7b5QKBgBQkDMWcdS/NLkK7BCNg\nkLhZrlWUz+9eeL97/tUbhEuP9//9U7fKAocsNRwzb1y7XiZIfSu9CwX09KPbkSq/\n2Pg/aKXBA6D4rFw+ESX0bR3VnEtYbl563m9Q/frPklgApRBhrNgfA+XzVvyNoIW9\nNK39jfrAoPUvWSL4FBZKTHvS\n-----END PRIVATE KEY-----\n",
+  "client_email": "audiohandler@top-amplifier-244713.iam.gserviceaccount.com",
+  "client_id": "111481185168701250767",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audiohandler%40top-amplifier-244713.iam.gserviceaccount.com"
+}
